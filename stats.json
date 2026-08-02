@@ -1,0 +1,10 @@
+{
+  "updated_at": "2026-08-02T19:56:58.371Z",
+  "last_download_at": "2026-08-02T19:56:58.371Z",
+  "total": 2,
+  "by_version": {
+    "v1.0.3": 2
+  },
+  "source": "github-releases",
+  "note": "Counts from GitHub Releases assets. last_download_at advances when total increases between polls."
+}
