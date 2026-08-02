@@ -1,0 +1,18 @@
+field,value
+client_name,Acme MedTech Ltd
+site,Dublin Manufacturing Plant
+system_name,ScieTechQMS
+system_version,1.1.0
+edition,Edge Intelligence Edition
+gamp_category,5
+intended_use,"Local QMS for document control, CAPA, FMEA risk, Part 11 audit trail, and Embedded Phi-3 Cognitive Core"
+regulatory_scope,"ISO 13485, 21 CFR Part 11, ALCOA+, GAMP 5, EU Annex 11"
+environment,On-premises Windows/Linux workstation (AI-on-the-Edge, offline-capable)
+engine,Embedded-Phi3-Local
+validated_by,Jane Validation Engineer
+approved_by,John QA Manager
+contact_email,quality@acmemedtech.example
+notes,"Sample CSV Validation Pack for ScieTechQMS v1.1.0 — IQ/OQ/PQ templates. Full pack: one-time €5,000–€15,000. Included in Sovereign Enterprise / add-on for Edge Professional."
+protocol_iq,IQ-01 to IQ-05 Installation Qualification checklist (pre-filled)
+protocol_oq,OQ-01 to OQ-08 Operational Qualification (e-sign, audit chain, lockdown)
+protocol_pq,PQ-01 to PQ-05 Performance Qualification under normal load
