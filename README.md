@@ -141,7 +141,7 @@ ScieTechQMS uses a transparent, hardware-bound licensing model suitable for cont
 
 ### Step 1 — Download & Explore
 
-Download the latest installer from the [public releases page](https://github.com/rabbittrix/ScieTechQMS.io/releases/latest) — **Latest Version: 1.1.5 (Edge Intelligence Edition)**:
+Download the latest installer from the [public releases page](https://github.com/rabbittrix/ScieTechQMS.io/releases/latest) — **Latest Version: 1.1.6 (Edge Intelligence Edition)**:
 
 | Platform | Installer (versioned release history) |
 | -------- | --------- |
