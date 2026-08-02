@@ -141,13 +141,15 @@ ScieTechQMS uses a transparent, hardware-bound licensing model suitable for cont
 
 ### Step 1 — Download & Explore
 
-Download the latest installer from the [public releases page](https://github.com/rabbittrix/ScieTechQMS.io/releases/latest) — **Latest Version: 1.1.3 (Edge Intelligence Edition)**:
+Download the latest installer from the [public releases page](https://github.com/rabbittrix/ScieTechQMS.io/releases/latest) — **Latest Version: 1.1.4 (Edge Intelligence Edition)**:
 
-| Platform | Installer |
+| Platform | Installer (versioned release history) |
 | -------- | --------- |
-| Windows 10 / 11 (NSIS) | `ScieTechQMS_Setup.exe` |
-| Windows 10 / 11 (MSI) | `ScieTechQMS.msi` |
-| Linux (Ubuntu / Debian) | `ScieTechQMS_amd64.deb` |
+| Windows 10 / 11 (NSIS) | `ScieTechQMS_v{VERSION}_x64-setup.exe` |
+| Windows 10 / 11 (MSI) | `ScieTechQMS_v{VERSION}_x64_en-US.msi` |
+| Linux (Ubuntu / Debian) | `ScieTechQMS_v{VERSION}_amd64.deb` |
+
+Example for v1.1.4: `ScieTechQMS_v1.1.4_x64_en-US.msi`.
 
 Install locally and explore document control, audit trails, traceability views, and Guardian AI — **no license key is required for evaluation**.
 
