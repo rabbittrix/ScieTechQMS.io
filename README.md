@@ -36,6 +36,8 @@ ScieTechQMS is deployed as a **native desktop application** on your own infrastr
 
 Our key differentiator is **AI-on-the-Edge**. While competitors rely on expensive servers and constant internet connectivity, ScieTechQMS features an **embedded pharmaceutical intelligence engine** (Microsoft Phi-3 Mini via `llama-server`) directly within the binary. The system operates flawlessly in production bunkers and isolated laboratories — **audit-ready in dark facilities** — with zero latency and maximum security.
 
+> **Note:** ScieTechQMS includes an embedded 2.3GB Cognitive AI Core. No internet or external AI installation (like Ollama) is required. Secure, private, and audit-ready out of the box.
+
 From a governance perspective, this means:
 
 - **Intellectual property remains under your control** at all times — no data ever leaves your device.
@@ -183,7 +185,7 @@ ScieTechQMS is engineered for a **minimal hardware footprint** while delivering 
 | **Storage** | 2 GB available disk space for application and local database; additional space for audit exports and AI models |
 | **Display** | 1280 × 800 minimum resolution |
 | **Network** | Not required for core QMS operations; internet optional for license activation and release updates |
-| **Embedded Cognitive Core** | Phi-3 Mini GGUF ships inside the installer; Neural Core runs offline — no cloud API key, audit-ready in dark facilities |
+| **Embedded Cognitive Core** | Embedded 2.3GB Cognitive AI Core — no internet or external AI (e.g. Ollama) required; secure, private, and audit-ready out of the box |
 
 For validated environments, include ScieTechQMS in your **Installation Qualification (IQ)** documentation using the above baseline. Performance remains stable on standard quality-office and shop-floor workstations.
 
