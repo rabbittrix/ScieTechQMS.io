@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-02T22:36:27.545Z",
+  "updated_at": "2026-08-02T22:40:05.116Z",
   "last_download_at": "2026-08-02T22:36:27.545Z",
   "total": 5,
   "by_version": {
@@ -11,7 +11,6 @@
     "ScieTechQMS.msi": 2,
     "ScieTechQMS_amd64.deb": 1,
     "ScieTechQMS_Setup.exe": 2,
-    "ScieTechQMS_1.1.2_x64_en-US.msi": 0,
     "ScieTechQMS_1.0.3_x64_en-US.msi": 0
   },
   "by_channel": {
