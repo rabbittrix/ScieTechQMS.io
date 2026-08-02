@@ -145,7 +145,8 @@ Download the latest installer from the [public releases page](https://github.com
 
 | Platform | Installer |
 | -------- | --------- |
-| Windows 10 / 11 | `ScieTechQMS_Setup.exe` |
+| Windows 10 / 11 (NSIS) | `ScieTechQMS_Setup.exe` |
+| Windows 10 / 11 (MSI) | `ScieTechQMS.msi` |
 | Linux (Ubuntu / Debian) | `ScieTechQMS_amd64.deb` |
 
 Install locally and explore document control, audit trails, traceability views, and Guardian AI — **no license key is required for evaluation**.
