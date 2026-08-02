@@ -1,10 +1,19 @@
 {
-  "updated_at": "2026-08-02T19:56:58.371Z",
-  "last_download_at": "2026-08-02T19:56:58.371Z",
-  "total": 2,
+  "updated_at": "2026-08-02T22:21:51.038Z",
+  "last_download_at": "2026-08-02T22:21:51.038Z",
+  "total": 3,
   "by_version": {
-    "v1.0.3": 2
+    "v1.1.3": 0,
+    "v1.1.2": 0,
+    "v1.0.3": 3
+  },
+  "by_asset": {
+    "ScieTechQMS.msi": 0,
+    "ScieTechQMS_amd64.deb": 1,
+    "ScieTechQMS_Setup.exe": 2,
+    "ScieTechQMS_1.1.2_x64_en-US.msi": 0,
+    "ScieTechQMS_1.0.3_x64_en-US.msi": 0
   },
   "source": "github-releases",
-  "note": "Counts from GitHub Releases assets. last_download_at advances when total increases between polls."
+  "note": "Installer assets only (.exe/.msi/.deb). last_download_at advances when total increases between polls."
 }
