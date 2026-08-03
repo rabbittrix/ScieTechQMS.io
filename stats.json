@@ -1,9 +1,10 @@
 {
-  "updated_at": "2026-08-03T00:03:57.618Z",
-  "last_download_at": "2026-08-03T00:03:57.618Z",
-  "total": 8,
+  "updated_at": "2026-08-03T10:45:37.608Z",
+  "last_download_at": "2026-08-03T10:45:37.608Z",
+  "total": 12,
   "by_version": {
-    "v1.1.9": 0,
+    "v1.1.11": 3,
+    "v1.1.9": 1,
     "v1.1.8": 0,
     "v1.1.7": 0,
     "v1.1.5": 1,
@@ -13,9 +14,12 @@
     "v1.0.3": 3
   },
   "by_asset": {
+    "ScieTechQMS_v1.1.11_amd64.deb": 0,
+    "ScieTechQMS_v1.1.11_x64-setup.exe": 1,
+    "ScieTechQMS_v1.1.11_x64_en-US.msi": 2,
     "ScieTechQMS_v1.1.9_amd64.deb": 0,
     "ScieTechQMS_v1.1.9_x64-setup.exe": 0,
-    "ScieTechQMS_v1.1.9_x64_en-US.msi": 0,
+    "ScieTechQMS_v1.1.9_x64_en-US.msi": 1,
     "ScieTechQMS_v1.1.8_amd64.deb": 0,
     "ScieTechQMS_v1.1.8_x64-setup.exe": 0,
     "ScieTechQMS_v1.1.8_x64_en-US.msi": 0,
@@ -34,8 +38,8 @@
     "ScieTechQMS_1.0.3_x64_en-US.msi": 0
   },
   "by_channel": {
-    "exe": 3,
-    "msi": 4,
+    "exe": 4,
+    "msi": 7,
     "deb": 1
   },
   "landing_clicks": {
@@ -44,8 +48,8 @@
     "deb": 1
   },
   "github_channel": {
-    "exe": 3,
-    "msi": 4,
+    "exe": 4,
+    "msi": 7,
     "deb": 1
   },
   "source": "github-releases+landing-clicks",
