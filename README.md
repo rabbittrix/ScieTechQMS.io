@@ -211,15 +211,5 @@ For product demonstrations, downloads, and license requests, visit the [official
 
 This repository hosts the **ScieTechQMS public web portal** (static marketing site and download hub), deployed to GitHub Pages at `/ScieTechQMS.io`. Application installers are published via GitHub Releases on this repository. The ScieTechQMS desktop application itself is developed and validated separately; this README describes **functional system behaviour** for stakeholders evaluating the product.
 
-### GitHub Pages (fix 404)
-
-If `https://rabbittrix.github.io/ScieTechQMS.io/` shows **404 — There isn't a GitHub Pages site here**:
-
-1. In **rabbittrix/ScieTechQMS.io** → **Settings** → **Pages** → set **Source** to **Deploy from branch** → branch **`main`** → folder **`/ (root)`** → Save.
-2. On the private **ScieTechQMS** repo, set secret **`API_TOKEN_STQMS`** (PAT with `repo` scope on `ScieTechQMS.io`).
-3. Push to **`main`** on the private repo — **Release and Deploy** validates on ScieTechQMS, then deploys the site to ScieTechQMS.io.
-4. To publish installers, run **Release and Deploy** with **Publish installers** enabled, or push tag **`v*`** (e.g. `v1.0.2`). Installers are released on ScieTechQMS first, then mirrored to ScieTechQMS.io.
-5. Wait 1–2 minutes; confirm `index.html`, `.nojekyll`, and `_next/` exist at the root of public repo **`main`**, and release assets at [ScieTechQMS.io releases](https://github.com/rabbittrix/ScieTechQMS.io/releases).
-
 **Contact:** [rabbittrix@hotmail.com](mailto:rabbittrix@hotmail.com)  
 **Copyright © 2026 ScieTechQMS · Roberto de Souza · All rights reserved.**
